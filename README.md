@@ -34,5 +34,15 @@ Tested using both Python 3.7 and 3.8 on Mac OS 12.x.  However, no OS-specific co
 - The gel image analysis script can be found in ```gel_trace_analysis.ipynb```
 
 Example standard gel/capillary gel data can be found in the supplementary files of the linked paper (*add link*).
+
+### Example Outputs
+
+Capillary electrophoresis analysis
+![capillary_data](examples/capillary_analysis.png)
+Lane selection output
+![lane_analysis](examples/example_lane_selection.png)
+Standard gel trace plot (after background subtraction)
+![fbs_plot](examples/standard_gel_trace_plot.png)
+
 ### Development
 Any additional contributions welcome, especially on user interface (both command-line and GUI).
