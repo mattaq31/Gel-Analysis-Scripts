@@ -1,7 +1,7 @@
 # Gel-Analysis-Scripts
 
 ### Description
-Suite of Jupyter Notebook-based tools for interpreting and analyzing standard and capillary gel signals.  Also acts as the companion software to our publication in *Journal Name*.
+Suite of Jupyter Notebook-based tools for interpreting and analyzing standard and capillary gel signals.  Also acts as the companion software to our paper entitled 'Multiplexed Label-Free Biomarker Detection by Targeted Disassembly of Variable-Length DNA Payload Chains'.
 
 Capabilities:
 - GUI for manual selection of gel lanes and bands, with features available for enforcing lane length/width with arbitrary rotations.
