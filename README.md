@@ -33,7 +33,7 @@ Tested using both Python 3.7 and 3.8 on Mac OS 12.x.  However, no OS-specific co
 - The gel lane/band finder can be found in ```gel_lane_finder.ipynb```
 - The gel image analysis script can be found in ```gel_trace_analysis.ipynb```
 
-Example standard gel/capillary gel data can be found in the supplementary files of the linked paper (*add link*).
+Example standard gel/capillary gel data can be found in the supplementary files of the associated paper [here](https://www.biorxiv.org/content/10.1101/2022.03.25.485867v1.supplementary-material).
 
 ### Example Outputs
 
